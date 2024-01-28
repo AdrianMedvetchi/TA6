@@ -6,6 +6,8 @@ If you want the text style to be italics, you need to write it between [*], for 
 
 If you want the text to be bold, write it between [**], for example: **text style in italics**
 
+There is an alternative for the text style by adding [_], it can be written in bold-italics style, for example: *__text is bold-italics__* or _**this way**_ or ___this way___ or ***like this***
+
 ## Lists
 
 If you want to make a dotlist start the line with [*], for examle:
