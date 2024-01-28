@@ -30,3 +30,12 @@ To add an image you need to download the .jpg file in the work map and do next: 
 ## Quotes
 
 ## Finals
+### Git instructions:
+* Git init - to initiate the work
+* Git status - to see the status of the work
+* Git add - to add the modifications done
+* Git commit -m "message" - to save the work with a message
+* Git log - to see the history of the work
+* Git branch - to see the branches
+* Git branch _branch name_ - to create a branch
+* Git checkout _branch name_ - to enter a branch
