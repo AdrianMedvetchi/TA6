@@ -22,6 +22,9 @@ For a numbered list do next:
 
 ## Images
 
+To add an image you need to download the .jpg file in the work map and do next: ![some comments](name of the jpg file)
+
+![beautiful image](<beautiful image.jpg>)
 ## Sites
 
 ## Quotes
