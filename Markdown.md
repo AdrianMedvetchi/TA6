@@ -11,7 +11,7 @@ There is an alternative for the text style by adding [_], it can be written in b
 ## Lists
 
 If you want to make a dotlist start the line with [*], for examle:
-* element 1
+* element 12
 * element 2
 * element 3
 
