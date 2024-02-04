@@ -35,3 +35,4 @@ https://github.com/AdrianMedvetchi/geekbrains_lessons/commits/81782fa338942d5919
 
 
 [def]: <Dalai Lama quote.jpg>
+something went wrong, because the lists and images content was deleted when merged a branch. To fix it i will try to checkout commit the version where this error happened.
