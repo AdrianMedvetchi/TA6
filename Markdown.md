@@ -27,9 +27,12 @@ To add an image you need to download the .jpg file in the work map and do next: 
 ![beautiful image](<beautiful image.jpg>)
 ## Sites
 
+I will attache the link to github:
+https://github.com/AdrianMedvetchi/geekbrains_lessons/commits/81782fa338942d59194bfe69c5d14ba55e1aa3f7/hellowworld.md
+
 ## Quotes
 
-![Lama Quote](<Dalai Lama quote.jpg>)
+![Lama Quote][def]
 
 ## Finals
 ### Git instructions:
@@ -42,3 +45,6 @@ To add an image you need to download the .jpg file in the work map and do next: 
 * Git branch _branch name_ - to create a branch
 * Git checkout _branch name_ - to enter a branch
 * Git branch -d _branch name_ - to delete a branch
+
+
+[def]: <Dalai Lama quote.jpg>
