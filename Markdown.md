@@ -39,3 +39,9 @@ To add an image you need to download the .jpg file in the work map and do next: 
 * Git branch - to see the branches
 * Git branch _branch name_ - to create a branch
 * Git checkout _branch name_ - to enter a branch
+
+
+
+
+
+Lets merge the lists branch with master, the only thing is that the sites and quotes sections are null in the lists branch  
