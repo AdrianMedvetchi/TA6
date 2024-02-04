@@ -6,7 +6,7 @@ If you want the text style to be italics, you need to write it between [*], for 
 
 If you want the text to be bold, write it between [**], for example: **text style in italics** or in alternative __like this__
 
-There is an alternative for the text style by adding [_], it can be written in bold-italics style, for example: *__text is bold-italics__* or _**this way**_ or ___this way___ or ***like this***
+To create a conflict i will paraphrase this line: There can be a lot of alternatives for the text style by combining [_] with [*] and it can be written in bold-italics style, for example: *__text is bold-italics__* or _**this way**_ or ___this way___ or ***like this***
 
 ## Lists
 
@@ -29,6 +29,8 @@ To add an image you need to download the .jpg file in the work map and do next: 
 
 ## Quotes
 
+![Lama Quote](<Dalai Lama quote.jpg>)
+
 ## Finals
 ### Git instructions:
 * Git init - to initiate the work
@@ -39,3 +41,4 @@ To add an image you need to download the .jpg file in the work map and do next: 
 * Git branch - to see the branches
 * Git branch _branch name_ - to create a branch
 * Git checkout _branch name_ - to enter a branch
+* Git branch -d _branch name_ - to delete a branch
