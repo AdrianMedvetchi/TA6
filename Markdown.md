@@ -10,6 +10,19 @@ To create a conflict i will paraphrase this line: There can be a lot of alternat
 
 ## Lists
 
+To make a dot-list do:
+
+* element 1
+* element 2
+
+or 
++ element 3
+
+To make a numbered list do:
+1. element 1
+2. element 2
+3. element 3
+
 ## Images
 
 ## Sites
