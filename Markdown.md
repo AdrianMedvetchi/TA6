@@ -24,7 +24,9 @@ To make a numbered list do:
 3. element 3
 
 ## Images
+To add an image do next:
 
+![beautiful image](<beautiful image.jpg>)
 ## Sites
 
 I will attache the link to github:
