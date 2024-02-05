@@ -50,4 +50,5 @@ https://github.com/AdrianMedvetchi/geekbrains_lessons/commits/81782fa338942d5919
 
 
 [def]: <Dalai Lama quote.jpg>
-something went wrong, because the lists and images content was deleted when merged a branch. To fix it i will try to checkout commit the version where this error happened. Nothing changed, the lists and image sections remain null -> next I will create a branch for lists and a branch for images and will follow again the steps.
+
+Something went wrong, because the lists and images content was deleted when merged a branch. To fix it i will try to checkout commit the version where this error happened. Nothing changed, the lists and image sections remain null -> next I will create a branch for lists and a branch for images and will add the content again.
