@@ -63,7 +63,10 @@ https://github.com/AdrianMedvetchi/geekbrains_lessons/commits/81782fa338942d5919
 * Git branch -M master - is used to rename the current branch in Git, -M: This option indicates that you want to move or rename an existing branch
 * Git push -u origin master - pushes the local changes from the "master" branch to the remote repository named "origin" and sets up tracking for future push and pull operations
 * Git pull - transfer the changes commited on github
+* Git clone - is used to create a local copy of a remote Git repository. 
+* **Fork** - refers to the action of creating a personal copy of someone else's project or repository
+* A **Pull request** - is a way of proposing changes to a codebase in a version control system.
 ### Comments:
 [def]: <Dalai Lama quote.jpg>
 
-Something went wrong, because the lists and images content was deleted when merged a branch. To fix it i will try to checkout commit the version where this error happened. Nothing changed, the lists and image sections remain null -> next I will create a branch for lists and a branch for images and will add the content again.
+*Something went wrong, because the lists and images content was deleted when merged a branch. To fix it i will try to checkout commit the version where this error happened. Nothing changed, the lists and image sections remain null -> next I will create a branch for lists and a branch for images and will add the content again.*
