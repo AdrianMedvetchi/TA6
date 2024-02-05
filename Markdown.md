@@ -62,6 +62,7 @@ https://github.com/AdrianMedvetchi/geekbrains_lessons/commits/81782fa338942d5919
 * Git remote add origin _repository url_ - is used in Git to set up a connection to a remote repository
 * Git branch -M master - is used to rename the current branch in Git, -M: This option indicates that you want to move or rename an existing branch
 * Git push -u origin master - pushes the local changes from the "master" branch to the remote repository named "origin" and sets up tracking for future push and pull operations
+* Git pull - transfer the changes commited on github
 ### Comments:
 [def]: <Dalai Lama quote.jpg>
 
